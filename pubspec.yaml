@@ -1,0 +1,22 @@
+name: custom_expansion_panel
+description: A custom version of the ExpansionPanel widget.
+version: 0.0.1
+author: MAHMOUD MOURAD
+homepage: https://github.com/mahmourad98
+
+environment:
+  sdk: ">=3.0.0"
+  flutter: ">=3.10.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
